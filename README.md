@@ -1,0 +1,2 @@
+# FizzBuzz-
+Python ödev
